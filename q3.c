@@ -10,5 +10,5 @@ for(i=1;i<=*x;i++)
 {
   product *=i;
 }
-printf("Factorial:%d",product);
+printf("Factorial:%d",product);//justforfun
 }
