@@ -16,4 +16,4 @@ printf("Enter two numbers to swap:\n");
 scanf("%d %d",&a,&d);
 fun(&a,&d);
 return 0;//just for fun
-}
+}//hvbejve
